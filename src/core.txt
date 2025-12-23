@@ -6,3 +6,4 @@ Generates code for post types, taxonomies, blocks, plugins, child themes, etc.
 # drop an unused branch
 # drop an unused branch
 # drop an unused branch
+# guard against empty input
