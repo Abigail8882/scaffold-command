@@ -32,3 +32,4 @@ Notes and usage details for scaffold-command.
 - fix a small wording issue
 - fix a small wording issue
 - add a note about the defaults
+- clarify the setup steps
